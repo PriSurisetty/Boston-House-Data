@@ -2,6 +2,11 @@
 
 This project uses the Boston Housing dataset to analyze and predict housing prices based on various features like crime rate, number of rooms, and more. The dataset is preprocessed by handling missing values and normalizing the data using Min-Max scaling.
 
+## Here's the data after it's been cleaned and preprocessed:
+
+<img width="512" alt="Screenshot 2024-11-05 at 7 19 06 PM" src="https://github.com/user-attachments/assets/e23cfa9d-6aa7-41f4-9574-6a98f36b7483">
+
+
 ## Table of Contents
 
 - [Installation](#installation)
